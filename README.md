@@ -3,7 +3,7 @@
 ## Overview 
 This Power BI report offers insights into cryptocurrency transaction data extracted from the Ethereum blockchain. It leverages an ETL (Extract, Transform, Load) project that collects transaction data for various ERC-20 tokens, processes it for analysis, and stores it in a SQL Server Management Studio (SSMS) database. This README focuses on the Power BI report and its capabilities for visualizing and analyzing the processed data.  
 
-Below is a screenshot showcasing the Power BI report's visualizations:  
+Below is a screenshot showcasing the Power BI report's visualizations:    
 ![image](https://github.com/Stephanie241/ERC20TokenGeneralReport/assets/144491602/47578833-aa45-4cf2-8da0-0c8cae7fdd32)
 
 ## Key Features of the Power BI Report  
